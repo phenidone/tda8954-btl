@@ -1,0 +1,14 @@
+470u 63v electro, 4 of, multicomp MCRH63V477M13X26
+22u 160v electro, 2 of, nichicon UVZ2C220MPD1TD
+100n 250v 1206, 2 of, Wurth 885342208004
+100n 100v 0805, 10 of, Multicomp MC0805B104K101CT
+15n 250v 1206, 2 of, Kemet C1206C153KARECAUTO
+220p 250v 0805, 4 of, Yageo CC0805KRX7RYBB221
+
+1u film 5mm, 2 of, Wima MKS2C041001F00KSSD
+22uH, 2 of, bourns SRP1265C-220M alt 2200HT-220-V-RC
+680n film 15mm, 2 of, multicomp MPMPP400P68J0I200
+
+terminal 2 way 3041529 15A
+terminal 3 way 3041530 15A
+
