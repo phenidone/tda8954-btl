@@ -980,17 +980,6 @@ Wire Wire Line
 Wire Wire Line
 	6300 2150 6300 2200
 $Comp
-L Connector:Screw_Terminal_01x02 J3
-U 1 1 61CAF432
-P 6500 2200
-F 0 "J3" H 6500 2300 50  0000 L CNN
-F 1 "Screw_Terminal_01x02" H 6400 2000 50  0001 L CNN
-F 2 "Terminals_Phoenix:TerminalBlock_Phoenix_MKDS1.5-2pol" H 6500 2200 50  0001 C CNN
-F 3 "~" H 6500 2200 50  0001 C CNN
-	1    6500 2200
-	1    0    0    -1  
-$EndComp
-$Comp
 L Connector:Conn_01x01_Male J4
 U 1 1 61DF1566
 P 6500 2450
@@ -1587,7 +1576,7 @@ U 1 1 6233C4CE
 P 5450 3450
 F 0 "J10" H 5558 3539 50  0000 C CNN
 F 1 "Conn_01x01_Male" H 5558 3540 50  0001 C CNN
-F 2 "power:FASTON250P_5.08mm_male_vertical" H 5450 3450 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad" H 5450 3450 50  0001 C CNN
 F 3 "~" H 5450 3450 50  0001 C CNN
 	1    5450 3450
 	1    0    0    -1  
