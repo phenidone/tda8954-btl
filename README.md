@@ -53,4 +53,4 @@ the CERN OHL; see cern_ohl_v_1_2.pdf
 
 ## TRL
 
-This PCB has been sent for manufacture but not yet assembled or tested
+This PCB has been sent for manufacture but not yet assembled or tested.
